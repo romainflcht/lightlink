@@ -12,12 +12,16 @@ Using an easy-to-use website, you can draw, edit, and customize your designs. On
 send it wirelessly to Light Link and see your art in vibrant colors. Perfect for decorating your space, creating
 unique displays, or sharing with friends, Light Link combines creativity and technology.
 </div>
+<br />
+
 
 # The project
 <div style="text-align: justify">
 This project is an engineering school assignment completed during the second semester of 2024.
 The main goal of this project was to connect people separated by distance, allowing them to draw small things on the device's screen using their phone.
 </div>
+<br />
+
 
 # How the device work
 <div style="text-align: justify">
@@ -60,6 +64,13 @@ is capable of receive new drawings from an HTTP POST request and send drawings w
 The device call for that JSON data, decode it and then displays it to the main screen!
 
 To be able to fetch drawings everywhere on earth, the API is hosted on a machine running ubuntu-server an opened to the world-wide-web. 
+
+<p align="center">
+  <img src="_img/ui.png" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
+  <img src="_img/ui2.png" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
+  <br />
+  <i>The web app used to send a drawing. </i>
+</p>
 </div>
 
 # Manufacturing
@@ -71,6 +82,7 @@ The device is composed of two independant piece that need to be manufactured.
 <div style="text-align: justify">
 The plastic shell is 3D printed in PLA and is composed of 3 separate pieces, the case the light diffuser and the back cover. The case and back cover are holded together
 using some small neodymium magnets to be able to open the device very quickly and easily and the diffuser is press fitted inside the case. 
+<br />
 </div>
 <p align="center">
   <img src="_img/case_diffuser_back_cover.png" width="100%" alt="A picture of the case" style="border-radius: 5px;"/>
@@ -85,6 +97,8 @@ As I said before, PCBs were sent by PCBWay, but before that we needed to engrave
 if everything works as intended before ordering production PCBs. The PCB, after the soldering of every component, is press
 fitted inside the case. 
 </div>
+<br />
+
 <p align="center">
   <img src="_img/cnc.jpg" width="47%" alt="A picture of the prototype PCB" style="border-radius: 5px;"/>
   <br />
