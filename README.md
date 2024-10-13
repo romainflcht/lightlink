@@ -66,8 +66,8 @@ The device call for that JSON data, decode it and then displays it to the main s
 To be able to fetch drawings everywhere on earth, the API is hosted on a machine running ubuntu-server an opened to the world-wide-web. 
 
 <p align="center">
-  <img src="_img/ui.png" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
-  <img src="_img/ui2.png" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
+  <img src="_img/ui.PNG" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
+  <img src="_img/ui2.PNG" width="47%" alt="A picture of the web app" style="border-radius: 5px;"/>
   <br />
   <i>The web app used to send a drawing. </i>
 </p>
